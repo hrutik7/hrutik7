@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently FullStack developement
+- 🔭 I’m currently into FullStack developement
 - 🌱 I’m currently learning web 3.0
 - 👯 I’m looking to collaborate on leaflet
 - 📫 My twitter handle is <a href="https://twitter.com/HrutikKumthekar">@hrutikkumthekar</a>
