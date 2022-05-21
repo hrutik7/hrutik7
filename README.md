@@ -11,4 +11,4 @@
 
 <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt="wake up to reality">
 
-[![Hrutik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrutik7)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Hrutik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrutik7)](https://github.com/anuraghazra/github-readme-stats) -->
