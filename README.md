@@ -29,5 +29,15 @@
     
 </p>
 
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrutik7&show_icons=true&locale=en&layout=compact" alt="vedant-jain03" >
+<img src="https://github-readme-stats.vercel.app/api?username=hrutik7&show_icons=true&locale=en" alt="vedant-jain03" >
 
-[![Hrutik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrutik7)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">Follow Me In</h3>
+<div align="center">
+  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]([https://www.linkedin.com/in/vedant-jain-781006145/](https://www.linkedin.com/in/hrutik-kumthekar-b997bb228/))
+[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">]([https://twitter.com/vedantj_03](https://twitter.com/HrutikKumthekar))
+
+</div>
