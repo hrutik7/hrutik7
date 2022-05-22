@@ -11,7 +11,6 @@
 
 <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt="wake up to reality">
 
-<!-- [![Hrutik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrutik7)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## 🚀 Languages and Tools:
@@ -29,3 +28,6 @@
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
     
 </p>
+
+
+[![Hrutik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrutik7)](https://github.com/anuraghazra/github-readme-stats)
