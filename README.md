@@ -1,4 +1,4 @@
-<h1> Hi there, Myself hrutik I am third year engineering student 👋 </h1>
+<h1> Hi there, Myself hrutik👋 </h1>
 
 
 
