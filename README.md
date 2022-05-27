@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%green&lines=Hey+I'm+Hrutik+Kumthekar.">
-</p>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E9E3D&lines=Hey+I'am+hrutik+kumthekar)](https://git.io/typing-svg)
+
 
 
 
