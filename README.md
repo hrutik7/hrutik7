@@ -87,7 +87,7 @@
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/HrutikKumthekar)
 
 </div>
-
+[GitHub Profile Views Counter]: https://github.com/hrutik7/github-profile-views-counter
 
 <!-- <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{hrutik7}/count.svg">
