@@ -76,8 +76,7 @@
 </div>
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrutik7&show_icons=true&locale=en&layout=compact" alt="hrutik7" >
-<img src="https://github-readme-stats.vercel.app/api?username=hrutik7&show_icons=true&locale=en" alt="hrutik7" >
+
 
 
 <h3 align="center">Follow Me In</h3>
