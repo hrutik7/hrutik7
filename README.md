@@ -78,7 +78,7 @@
 ## Github Stats
 
 
-
+![Hrutik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrutik7&show_icons=true&theme=transparent)
 <h3 align="center">Follow Me In</h3>
 <div align="center">
   
