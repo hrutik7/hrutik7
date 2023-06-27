@@ -83,7 +83,7 @@
 <div align="center">
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hrutik-kumthekar-b997bb228/)
-[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/HrutikKumthekar)
+[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/bushido_hk)
 
 </div>
 <div align="center">
