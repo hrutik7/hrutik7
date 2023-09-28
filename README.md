@@ -79,6 +79,10 @@
 
 
 ![Hrutik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrutik7&show_icons=true&theme=transparent)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hrutik7&theme=dark)](https://git.io/streak-stats)
+
+
 <h3 align="center">Follow Me In</h3>
 <div align="center">
   
