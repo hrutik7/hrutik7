@@ -3,14 +3,6 @@
 
 
 
-
-- 🔭 I’m currently into FullStack developement
-- 🌱 I’m currently learning web 3.0
-- 👯 I’m looking to collaborate on  <a href="https://github.com/WeMakeDevs/wemakedevs">@wemakedevs</a>
-- 📫 Let's connect on twitter <a href="https://twitter.com/bushido_hk">@hrutikkumthekar</a>
-
-
-
 <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt="wake up to reality">
 
 
@@ -86,7 +78,7 @@
 <h3 align="center">Follow Me In</h3>
 <div align="center">
   
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hrutik-kumthekar-b997bb228/)
+
 [<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/bushido_hk)
 
 </div>
