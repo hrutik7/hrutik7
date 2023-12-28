@@ -1,19 +1,15 @@
 
 
-## Github Stats
-
-
-![Hrutik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrutik7&show_icons=true&theme=transparent)
 
 
 
 
-<h3 align="center">Follow Me In</h3>
+
+
 <div align="center">
-  
-
-[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/bushido_hk)
-
+  <h2> DM is open :) </h2>
+<a href="https://discord.com/users/715621809491411015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="z7MZYhmx6w" height="30" width="40" /></a>
+<a href="https://twitter.com/bushido_hk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhravyashah" height="30" width="40" /></a>
 </div>
 
 
